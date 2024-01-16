@@ -1,0 +1,8 @@
+# frame: output
+# refimage: shifts_wcs.fits[wcs]
+# form: delta
+# units: pixels
+hst_11548_a0_wfc3_ir_f160w_ib0la0pd_flt.fits    nan  nan    nan     nan   0.000000  0.000000
+hst_11548_a0_wfc3_ir_f160w_ib0la0ph_flt.fits    nan  nan    nan     nan   0.000000  0.000000
+hst_11548_a0_wfc3_ir_f160w_ib0la0pf_flt.fits    nan  nan    nan     nan   0.000000  0.000000
+hst_11548_a0_wfc3_ir_f160w_ib0la0pa_flt.fits    nan  nan    nan     nan   0.000000  0.000000

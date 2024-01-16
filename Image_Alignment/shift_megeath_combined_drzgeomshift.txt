@@ -1,0 +1,9 @@
+# frame: output
+# refimage: shifts_wcs.fits[wcs]
+# form: delta
+# units: pixels
+hst_11548_a0_wfc3_ir_f160w_ib0la0pb_flt.fits    0.140502  0.188617    0.000000     1.000000   0.121700  0.092387
+hst_11548_a0_wfc3_ir_f160w_ib0la0pd_flt.fits    0.031816  -0.052547    0.000000     1.000000   0.054524  0.082208
+hst_11548_a0_wfc3_ir_f160w_ib0la0ph_flt.fits    nan  nan    nan     nan   0.000000  0.000000
+hst_11548_a0_wfc3_ir_f160w_ib0la0pf_flt.fits    0.000060  0.085916    0.000000     1.000000   0.053355  0.057233
+hst_11548_a0_wfc3_ir_f160w_ib0la0pa_flt.fits    -0.009278  0.011504    0.000000     1.000000   0.037545  0.079177
